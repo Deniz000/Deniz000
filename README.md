@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with better a Java Developer 
 - 💬 Ask me about something
 - 📫 How to reach me: guldenizozdemir03@gmail.com
-- ⚡ Fun fact: I ❤️ learning 
+- ⚡ Fun fact: I ❤️ learning.
 -->
