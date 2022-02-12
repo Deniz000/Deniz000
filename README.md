@@ -1,9 +1,4 @@
-Hi there 👋
-
-<!--
-**Deniz000/Deniz000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi there, I'm Güldeniz Özdemir @Deniz000  👋
 
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on ...
@@ -11,4 +6,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about something
 - 📫 How to reach me: guldenizozdemir03@gmail.com
 - ⚡ Fun fact: I ❤️ learning
--->
