@@ -5,3 +5,4 @@ Hi there, I'm Güldeniz Özdemir 👋
 - 💬 Ask me about something
 - 📫 How to reach me: guldenizozdemir03@gmail.com
 - ⚡ Fun fact: I ❤️ learning
+https://www.codewars.com/users/Guldeniz/badges/small
