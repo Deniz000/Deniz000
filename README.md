@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Güldeniz Özdemir</h1>
 <h3 align="left">A passionate backend developer from Turkey</h3>
 
-<p align="left">🌱 I’m currently learning <b>Spring Boot</b></p/>
+<p align="left">🌱 I’m currently learning <b>Spring Boot</b> and <b>React</b></p/>
 <p align="left">💬 Ask me about <b>Java, Spring Boot</b></p/>
 <p align="left">📫 How to reach me <b>guldenizozdemir03@gmail.com</b></p/>
 
