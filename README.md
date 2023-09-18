@@ -13,5 +13,4 @@
 <a href="https://medium.com/@guldenizozdemir03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@guldenizozdemir03" height="30" width="40" /></a>
 </p>
 
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=deniz000&show_icons=true&locale=en" alt="deniz000" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deniz000&show_icons=true&theme=cobalt&title_color=7900db&text_color=fcfcfc&bg_color=aaacee&hide_border=true&locale=en&layout=compact" alt="deniz000" /></p>
