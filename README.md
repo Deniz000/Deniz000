@@ -12,3 +12,4 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deniz000&show_icons=true&theme=cobalt&title_color=7900db&text_color=fcfcfc&bg_color=aaacee&hide_border=true&locale=en&layout=compact" alt="deniz000" /></p>
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
